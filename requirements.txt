@@ -1,0 +1,3 @@
+winshell
+cx_Freeze
+pypiwin32
